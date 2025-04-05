@@ -33,7 +33,6 @@ const posts = [
           "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
-      ,
       {
         "postId": "c1860001-deea-48de-bfc8-bd63774293a8",
         "creator": {
