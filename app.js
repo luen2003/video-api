@@ -28,9 +28,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -53,9 +53,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -78,9 +78,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -103,9 +103,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -128,9 +128,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -153,9 +153,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -178,9 +178,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -203,9 +203,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -228,9 +228,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       },
       {
@@ -253,9 +253,9 @@ const posts = [
           "title": "Random Title",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
           "mediaUrl": "https://github.com/luen2003/python-code/raw/refs/heads/main/sample-video.mp4",
-          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png",
-          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/logo.png"
+          "thumbnail": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "hyperlink": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png",
+          "placeholderUrl": "https://raw.githubusercontent.com/luen2003/python-code/refs/heads/main/sample-image.png"
         }
       }
   // Add more posts here following the same structure...
