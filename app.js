@@ -1,6 +1,10 @@
 const express = require('express');
 const app = express();
 const port = 3000;
+const cors = require('cors');  // Import cors package
+
+// Enable CORS for all origins
+app.use(cors());
 
 // Sample video posts data (to simulate a database)
 const posts = [
