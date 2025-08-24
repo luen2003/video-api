@@ -1,12 +1,10 @@
 const express = require('express');
 const app = express();
 const port = 3000;
-const cors = require('cors');  // Import cors package
+const cors = require('cors');
 
-// Enable CORS for all origins
 app.use(cors());
 
-// Sample video posts data (to simulate a database)
 const posts = [
     {
         "postId": "9e20ef0d-17fe-4317-a2f8-5d601d507761",
@@ -61,32 +59,25 @@ const posts = [
 ];
 
 app.get('/videos', (req, res) => {
-  // Get page number from query string, default to 0 if not provided
   const page = parseInt(req.query.page) || 0;
-  const postsPerPage = 2;  // Number of posts per page
-
-  // Calculate the starting index for pagination
+  const postsPerPage = 2;  
   const startIndex = page * postsPerPage;
   const endIndex = startIndex + postsPerPage;
 
-  // Paginate the posts array
   const paginatedPosts = posts.slice(startIndex, endIndex);
 
-  // Response structure
   const response = {
     message: "Success",
     data: {
       posts: paginatedPosts,
-      page: page,  // Page number starts from 0
-      offset: page + 1,  // Offset starts from 1 for page 0
+      page: page,  
+      offset: page + 1, 
     }
   };
 
-  // Send the response as JSON
   res.json(response);
 });
 
-// Start the server
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
